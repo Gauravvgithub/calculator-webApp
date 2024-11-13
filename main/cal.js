@@ -1,0 +1,1 @@
+//! Only using eval function ---> onclick="display.value = eval(display.value)"
